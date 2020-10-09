@@ -21,6 +21,8 @@ To ensure accessibility with this feature I ensured the text was a contrasting c
 
 ## Terrain Smoothing
 
+![Terrain](https://raw.githubusercontent.com/joecharm/vr-assignment2/main/Images/Unity%20Scene%20Image%204%20-%20ground.PNG)
+
 I used ProBuilder to create the terrain for the user to spawn on and explore. I used the toolset provided by ProBuilder to create a unique ground shape, as well as increasing the height of the perimeter to add immersion. For a realistic terrain effect, I used the edge and face select tools to manipulate the edges, faces and vertices creating a non-exaggerated ‘bumpy’ environment.
 
 After creating this realistic terrain effect, I noticed that my manipulations created shading issues on some faces. The issue was being caused by the directional light bouncing off the surfaces at different angles. To counteract this, I used the smooth tool from ProBuilder. I first selected the faces displaying the shading issues and applied smooth shading.
