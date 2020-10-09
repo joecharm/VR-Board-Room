@@ -33,6 +33,7 @@ After applying this to the environment it was pleasant to walk around and look a
 <br>
 Latest release V1.0.0
 Tested on the following hardware: 
+
 * Intel Core i7-7700 CPU @2.8GHz
 * 16GB RAM
 * GTX1070
