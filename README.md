@@ -32,6 +32,12 @@ After applying this to the environment it was pleasant to walk around and look a
 ## Releases
 <br>
 Latest release V1.0.0
+Tested on the following hardware: 
+* Intel Core i7-7700 CPU @2.8GHz
+* 16GB RAM
+* GTX1070
+* Acer Windows Mixed Reality VR Headset
+
 <br>
 
 [Download V1.0.0](https://github.com/joecharm/vr-assignment2/releases/tag/V1.0.0) 
