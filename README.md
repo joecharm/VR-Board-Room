@@ -42,3 +42,5 @@ Tested on the following hardware:
 <br>
 
 [Download V1.0.0](https://github.com/joecharm/vr-assignment2/releases/tag/V1.0.0) 
+
+[![DOI](https://zenodo.org/badge/302613857.svg)](https://zenodo.org/badge/latestdoi/302613857)
